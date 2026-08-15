@@ -11,4 +11,4 @@ int main(){
 
     }
     cout<<"sum of first"<<n<<"numbers is:"<<sum<<endl;
-}
+} 
